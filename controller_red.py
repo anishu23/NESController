@@ -186,7 +186,7 @@ class Controller:
         self._display_surf.blit(selecttextsurface,(567,320))
 
         # logo
-        logo_img = pygame.image.load('logo.jpg')
+        logo_img = pygame.image.load('images\logo.jpg')
         self._display_surf.blit(logo_img, (780,100))
 
 
