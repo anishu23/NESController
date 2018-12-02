@@ -12,3 +12,20 @@ _NOTE: This code has the provision to send data via a udp socket. Do not look at
 * Run the controller_red.py file.
 * Enter a IP Address. (Skip this if you do not have a host.)
 * Press connect.
+
+## Screenshots
+NES Classic Controller UI
+![NES_Classic_Controller](images/NES_Interface.png)
+
+Input UI
+![Input_UI](images/Tkinter_Input_UI.png)
+
+## Legend
+* W = Forward
+* A = Left 
+* S = Backward 
+* D = Right 
+* K = B 
+* L = A
+* I = Select (Shows Legend on Hold) 
+* O = Start (Shows Legend on Hold)
