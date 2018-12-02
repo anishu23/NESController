@@ -15,10 +15,10 @@ _NOTE: This code has the provision to send data via a udp socket. Do not look at
 
 ## Screenshots
 NES Classic Controller UI
-![NES_Classic_Controller](images/NES_Interface.png)
+![NES_Classic_Controller](images/NES_Interface.PNG)
 
 Input UI
-![Input_UI](images/Tkinter_Input_UI.png)
+![Input_UI](images/Tkinter_Input_UI.PNG)
 
 ## Legend
 * W = Forward
